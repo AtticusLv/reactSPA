@@ -1,0 +1,23 @@
+{
+  "name": "react-spa",
+  "version": "0.0.0",
+  "description": "Practice of react SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtticusLv/reactSPA.git"
+  },
+  "keywords": [
+    "react",
+    "SPA"
+  ],
+  "author": "Atticus Lv <lvatticus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AtticusLv/reactSPA/issues"
+  },
+  "homepage": "https://github.com/AtticusLv/reactSPA#readme"
+}
